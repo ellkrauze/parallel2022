@@ -30,9 +30,7 @@ int findMaxElement(vector<int> V, int numOfThreads) {
 }
 
 
-int main(int argc, char *argv[]) {
-	
-	int numberOfWords = 0;
+int main(int argc, char *argv[]) {	
 	if (argc >= 1) {
         int N = atoi(argv[1]); // vector size
 
