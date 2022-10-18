@@ -1,5 +1,5 @@
 # Parallel algorithms for the analysis and synthesis of data
-University of ITMO, 2022.
+
 ## How to run this code?
 To compile the source code on Mac M1 use this command
 ```
